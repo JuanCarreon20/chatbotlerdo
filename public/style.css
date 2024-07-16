@@ -38,7 +38,7 @@ body {
 .bot-message {
     background-color: #e1f5fe;
     align-self: flex-start;
-
+    text-align: start;
 }
 
 .user-message {
